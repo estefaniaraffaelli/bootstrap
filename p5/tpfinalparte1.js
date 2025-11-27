@@ -33,7 +33,7 @@ let titulos = ["Present day...     \npresent time...", "", "", "EL MENSAJE", "CA
     "EPILOGO \nSER TODOS", "EPILOGO \nSER ALGUIEN", "EPILOGO \nNO SER", ""];
 
 function preload() {
-    fuente = loadFont("assets/coderscrux.ttf");
+    fuente = loadFont("assets/Coderscrux.ttf");
     fuenteTitulos = loadFont("assets/gunship.ttf");
 
     intro = loadSound("assets/sonido/intro.mp3");
